@@ -1,4 +1,55 @@
 {
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2024-12-06 20:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-06 20:48:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-12-06 20:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-12-06 20:49:54 +0000",
+      "minecraft:forest": "2024-12-06 20:48:46 +0000",
+      "minecraft:ocean": "2024-12-06 20:50:08 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "rocky_shrubland": "2024-12-06 20:50:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2024-12-06 20:50:27 +0000",
+      "rocky_shrubland": "2024-12-06 20:50:16 +0000"
+    },
+    "done": false
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched": "2024-12-06 20:50:34 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/root": {
+    "criteria": {
+      "requirement": "2024-12-06 20:50:40 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
     "criteria": {
       "has_template": "2024-12-06 20:51:27 +0000"
@@ -8,12 +59,6 @@
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2024-12-06 20:51:27 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:theundeadchallenges": {
-    "criteria": {
-      "theundeadchallenges_0": "2024-12-06 20:48:45 +0000"
     },
     "done": true
   },
@@ -62,12 +107,6 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-06 20:51:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-12-06 20:48:45 +0000"
     },
     "done": true
   },
@@ -185,12 +224,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "rocky_shrubland": "2024-12-06 20:50:16 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/drawer_key": {
     "criteria": {
       "has_template": "2024-12-06 20:51:27 +0000"
@@ -200,12 +233,6 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-06 20:51:27 +0000"
-    },
-    "done": true
-  },
-  "endofherobrine:story/root": {
-    "criteria": {
-      "requirement": "2024-12-06 20:50:40 +0000"
     },
     "done": true
   },
@@ -236,12 +263,6 @@
   "storagedrawers:recipes/storagedrawers/keyring": {
     "criteria": {
       "has_template": "2024-12-06 20:51:27 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2024-12-06 20:48:45 +0000"
     },
     "done": true
   },
@@ -334,13 +355,6 @@
       "has_planks": "2024-12-06 20:51:27 +0000"
     },
     "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "shrubland": "2024-12-06 20:50:27 +0000",
-      "rocky_shrubland": "2024-12-06 20:50:16 +0000"
-    },
-    "done": false
   },
   "storagedrawers:recipes/storagedrawers/void_upgrade": {
     "criteria": {
@@ -438,12 +452,6 @@
     },
     "done": true
   },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched": "2024-12-06 20:50:34 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/oak_trim": {
     "criteria": {
       "has_planks": "2024-12-06 20:51:27 +0000"
@@ -479,14 +487,6 @@
       "has_cobblestone": "2024-12-06 20:51:27 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2024-12-06 20:49:54 +0000",
-      "minecraft:forest": "2024-12-06 20:48:46 +0000",
-      "minecraft:ocean": "2024-12-06 20:50:08 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
