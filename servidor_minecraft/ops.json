@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "8662790d-c912-384e-b1b6-3f02171f4372",
+    "name": "Flixsor",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
