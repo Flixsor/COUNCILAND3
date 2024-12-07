@@ -4450,3 +4450,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 17:39:54.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...2 64 -166 Alonso<--[HERE]
 [07Dec2024 17:39:57.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
 [07Dec2024 17:40:14.045] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-609, y=62, z=-137}
+[07Dec2024 17:51:44.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 has made the advancement [Sweet Dreams]
+[07Dec2024 17:54:48.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 has made the advancement [Gravedigger]
+[07Dec2024 17:57:11.391] [Worker-Main-24/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-745, y=0, z=-736}
+[07Dec2024 18:00:43.968] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[07Dec2024 18:00:46.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: Timed out
+[07Dec2024 18:00:46.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[07Dec2024 18:00:46.509] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[07Dec2024 18:00:49.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:35996] logged in with entity id 28716 at (-1070.8723856022325, 63.0, -747.4096372802798)
+[07Dec2024 18:00:49.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[07Dec2024 18:00:50.759] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[07Dec2024 18:00:50.760] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[07Dec2024 18:04:47.096] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1051, y=93, z=-974}
+[07Dec2024 18:07:30.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4402ms or 88 ticks behind
+[07Dec2024 18:09:04.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[07Dec2024 18:10:48.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 has made the advancement [Crops of the Wild]
+[07Dec2024 18:11:03.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 moved too quickly! -5.089125958165255,-0.8391945580851399,-8.853475007281304
+[07Dec2024 18:11:03.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3070ms or 61 ticks behind
+[07Dec2024 18:12:45.571] [Worker-Main-49/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Dec2024 18:12:45.572] [Worker-Main-49/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Dec2024 18:15:50.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 has made the advancement [Deceived Hopes]
+[07Dec2024 18:17:19.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3491ms or 69 ticks behind
+[07Dec2024 18:17:41.574] [Worker-Main-19/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 18:17:41.575] [Worker-Main-19/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 18:17:41.619] [Worker-Main-19/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 18:17:41.664] [Worker-Main-19/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 18:17:41.809] [Worker-Main-19/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 18:17:41.895] [Worker-Main-19/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 18:17:41.984] [Worker-Main-19/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 18:17:42.506] [Worker-Main-19/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 18:17:42.507] [Worker-Main-19/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 18:17:44.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 moved too quickly! -4.461722122506444,8.395575898673297,3.648250283954667
+[07Dec2024 18:17:44.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3729ms or 74 ticks behind
