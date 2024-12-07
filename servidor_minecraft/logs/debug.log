@@ -8079,3 +8079,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 17:39:54.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...2 64 -166 Alonso<--[HERE]
 [07Dec2024 17:39:57.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
 [07Dec2024 17:40:14.045] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-609, y=62, z=-137}
+[07Dec2024 17:40:50.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 17:40:50.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 17:45:50.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 17:45:50.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
