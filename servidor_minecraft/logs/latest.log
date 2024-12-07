@@ -4376,3 +4376,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 16:50:50.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.565s)! For help, type "help"
 [07Dec2024 16:50:50.619] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [07Dec2024 16:50:50.693] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[07Dec2024 17:01:43.370] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[07Dec2024 17:01:49.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:52286] logged in with entity id 104 at (-687.6999999880791, -12.998664020887851, -160.58318524543384)
+[07Dec2024 17:01:49.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[07Dec2024 17:01:51.732] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[07Dec2024 17:01:51.736] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[07Dec2024 17:02:41.904] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[07Dec2024 17:02:49.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: You logged in from another location
+[07Dec2024 17:02:49.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[07Dec2024 17:02:49.760] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[07Dec2024 17:02:49.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:50316] logged in with entity id 793 at (-699.8096266008545, -14.0, -140.7988939635229)
+[07Dec2024 17:02:49.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[07Dec2024 17:02:50.240] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[07Dec2024 17:02:50.241] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[07Dec2024 17:03:34.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: Timed out
+[07Dec2024 17:03:34.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[07Dec2024 17:03:34.953] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[07Dec2024 17:04:10.299] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@108cff04[id=<null>,name=translover69,properties={},legacy=false] (/[::1]:55152) lost connection: Timed out
+[07Dec2024 17:04:53.794] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fa1dd9a[id=<null>,name=translover69,properties={},legacy=false] (/[::1]:47218) lost connection: Timed out
+[07Dec2024 17:05:03.878] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[07Dec2024 17:05:09.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:39736] logged in with entity id 876 at (-701.840621815042, 0.0, -119.5562316253679)
+[07Dec2024 17:05:09.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[07Dec2024 17:05:10.803] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[07Dec2024 17:05:10.804] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[07Dec2024 17:08:42.697] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-720, y=64, z=-102}
