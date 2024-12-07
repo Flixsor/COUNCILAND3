@@ -7637,3 +7637,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 20:43:36.789] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
 [07Dec2024 20:43:48.244] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['translover69'/452, l='ServerLevel[world]', x=-620.47, y=38.00, z=-118.35]]
 [07Dec2024 20:44:20.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 was slain by Cave Dweller
+[07Dec2024 20:47:24.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 20:47:24.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 20:47:53.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 has reached the goal [Dinner's Served!]
+[07Dec2024 20:50:09.090] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['translover69'/452, l='ServerLevel[world]', x=-613.50, y=38.00, z=-123.50]]
+[07Dec2024 20:50:11.208] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['translover69'/452, l='ServerLevel[world]', x=-614.54, y=37.94, z=-126.05]]
+[07Dec2024 20:52:24.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 20:52:24.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 20:54:10.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-598, y=62, z=-117} BlockPos{x=-598, y=62, z=-116}

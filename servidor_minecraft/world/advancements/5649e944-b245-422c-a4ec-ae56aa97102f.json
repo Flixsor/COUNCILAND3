@@ -5203,6 +5203,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-07 20:43:14 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/brazier": {
     "criteria": {
       "has_bar": "2024-12-07 20:34:37 +0000"
@@ -5221,9 +5227,33 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-12-07 20:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-07 20:43:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/keypad_door_item": {
     "criteria": {
       "has_reinforced_door": "2024-12-07 20:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-07 20:43:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 20:43:14 +0000"
     },
     "done": true
   },
