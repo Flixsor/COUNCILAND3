@@ -7814,3 +7814,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 17:05:50.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Dec2024 17:05:50.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Dec2024 17:08:42.697] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-720, y=64, z=-102}
+[07Dec2024 17:10:50.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 17:10:50.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 17:13:24.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraft:' of type 'minecraft:entity_type'
+[07Dec2024 17:14:20.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraft:' of type 'minecraft:entity_type'
+[07Dec2024 17:14:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incomplete (expected 3 coordinates)
+[07Dec2024 17:14:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ft:zombie 10<--[HERE]
+[07Dec2024 17:14:44.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 17:15:15.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraft:guarden' of type 'minecraft:entity_type'
+[07Dec2024 17:15:34.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Warden
+[07Dec2024 17:15:50.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 17:15:50.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 17:15:52.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Dec2024 17:17:25.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: que haces
+[07Dec2024 17:17:38.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> toy ampliando mi pieza
+[07Dec2024 17:17:49.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: ta bien
+[07Dec2024 17:17:56.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
