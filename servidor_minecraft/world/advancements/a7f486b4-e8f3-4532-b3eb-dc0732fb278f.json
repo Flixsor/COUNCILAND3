@@ -363,7 +363,8 @@
       "minecraft:river": "2024-12-06 02:37:37 +0000",
       "minecraft:forest": "2024-12-06 02:16:02 +0000",
       "minecraft:ocean": "2024-12-06 02:54:19 +0000",
-      "minecraft:old_growth_spruce_taiga": "2024-12-06 23:25:46 +0000"
+      "minecraft:old_growth_spruce_taiga": "2024-12-06 23:25:46 +0000",
+      "minecraft:plains": "2024-12-07 22:33:59 +0000"
     },
     "done": false
   },
@@ -3918,6 +3919,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2024-12-07 22:31:19 +0000",
       "entered_ruined_building": "2024-12-06 03:48:43 +0000"
     },
     "done": false
