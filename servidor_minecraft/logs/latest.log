@@ -4866,3 +4866,15 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [07Dec2024 23:18:58.633] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
 [07Dec2024 23:18:58.635] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
 [07Dec2024 23:19:25.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> x:-471, y:63, z:-569
+[07Dec2024 23:19:48.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Teleported translover69 to -470.500000, 63.000000, -568.500000]
+[07Dec2024 23:20:32.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 has made the advancement [Junior Summoner]
+[07Dec2024 23:22:42.190] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-399, y=62, z=-751}
+[07Dec2024 23:23:12.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3018ms or 60 ticks behind
+[07Dec2024 23:27:17.083] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[07Dec2024 23:27:22.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: You logged in from another location
+[07Dec2024 23:27:22.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[07Dec2024 23:27:22.157] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[07Dec2024 23:27:22.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:54264] logged in with entity id 64545 at (-404.55973612039827, 22.0625, -738.7040244350258)
+[07Dec2024 23:27:22.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[07Dec2024 23:27:22.620] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[07Dec2024 23:27:22.621] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
