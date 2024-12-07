@@ -8626,3 +8626,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 19:00:16.552] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
 [07Dec2024 19:01:07.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Dec2024 19:01:07.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 19:03:46.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Dec2024 19:03:46.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Dec2024 19:03:46.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Dec2024 19:03:46.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Dec2024 19:03:46.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Dec2024 19:03:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Dec2024 19:03:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[07Dec2024 19:03:47.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Dec2024 19:03:47.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[07Dec2024 19:03:47.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_crawling
+[07Dec2024 19:03:47.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 19:03:47.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 19:03:47.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Dec2024 19:03:47.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Dec2024 19:03:47.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[07Dec2024 19:03:47.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Dec2024 19:03:47.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[07Dec2024 19:03:47.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_crawling): All chunks are saved
+[07Dec2024 19:03:47.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Dec2024 19:03:47.334] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[07Dec2024 19:03:47.335] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Dec2024 19:03:47.336] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[07Dec2024 19:03:47.337] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[07Dec2024 19:03:47.339] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
