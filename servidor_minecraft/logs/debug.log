@@ -8238,3 +8238,38 @@ java.util.ConcurrentModificationException: null
 [07Dec2024 21:56:26.609] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/25043, l='ServerLevel[world]', x=-1908.61, y=118.00, z=1251.93] died, message: 'Mason was slain by Zombie Bruiser'
 [07Dec2024 21:57:39.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Dec2024 21:57:39.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 21:58:23.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Summoned new Alligator Snapping Turtle]
+[07Dec2024 21:58:49.324] [Worker-Main-25/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 21:58:49.586] [Worker-Main-25/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 21:58:49.587] [Worker-Main-25/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 21:58:50.983] [Worker-Main-25/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 21:58:50.984] [Worker-Main-25/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 21:58:50.984] [Worker-Main-25/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[07Dec2024 21:58:57.040] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-598, y=62, z=-104}
+[07Dec2024 22:00:49.210] [Worker-Main-27/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-98, 81], pos: BlockPos{x=-1568, y=-43, z=1299}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[07Dec2024 22:00:49.211] [Worker-Main-27/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-98, 81], pos: BlockPos{x=-1568, y=-43, z=1298}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[07Dec2024 22:00:49.211] [Worker-Main-27/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-98, 81], pos: BlockPos{x=-1568, y=-43, z=1297}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[07Dec2024 22:00:49.211] [Worker-Main-27/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-98, 81], pos: BlockPos{x=-1568, y=-40, z=1301}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[07Dec2024 22:02:13.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor has made the advancement [Local Brewery]
+[07Dec2024 22:02:39.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 22:02:39.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 22:03:56.141] [Worker-Main-26/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, 103], pos: BlockPos{x=-1488, y=-39, z=1656}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[07Dec2024 22:03:56.141] [Worker-Main-26/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, 103], pos: BlockPos{x=-1488, y=-39, z=1655}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[07Dec2024 22:03:56.142] [Worker-Main-26/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, 103], pos: BlockPos{x=-1488, y=-39, z=1654}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[07Dec2024 22:03:56.142] [Worker-Main-26/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, 103], pos: BlockPos{x=-1488, y=-36, z=1658}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[07Dec2024 22:05:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor has made the advancement [The Tear Of The Man]
+[07Dec2024 22:05:39.553] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['translover69'/21289, l='ServerLevel[world]', x=-614.22, y=38.00, z=-121.89]]
+[07Dec2024 22:05:41.466] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['translover69'/21289, l='ServerLevel[world]', x=-614.22, y=38.00, z=-121.89]]
+[07Dec2024 22:05:50.861] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['translover69'/21289, l='ServerLevel[world]', x=-612.36, y=38.00, z=-118.73]]
+[07Dec2024 22:06:05.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 moved too quickly! -10.158942950473602,0.0,0.7527477805124789
+[07Dec2024 22:06:05.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4206ms or 84 ticks behind
+[07Dec2024 22:06:09.803] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['translover69'/21289, l='ServerLevel[world]', x=-622.59, y=38.00, z=-121.10]]
+[07Dec2024 22:06:14.575] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['translover69'/21289, l='ServerLevel[world]', x=-615.00, y=38.00, z=-120.28]]
+[07Dec2024 22:07:06.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: Timed out
+[07Dec2024 22:07:06.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[07Dec2024 22:07:06.125] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of translover69
+[07Dec2024 22:07:06.125] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[07Dec2024 22:07:06.194] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 22:07:21.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3219ms or 64 ticks behind
+[07Dec2024 22:07:46.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 22:07:46.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

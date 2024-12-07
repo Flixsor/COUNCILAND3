@@ -5895,6 +5895,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-07 22:05:51 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_orange2": {
     "criteria": {
       "recipe_condition1": "2024-12-07 21:43:15 +0000"
@@ -6264,6 +6270,12 @@
   "decorative_blocks:recipes/building_blocks/stone_pillar": {
     "criteria": {
       "has_stone": "2024-12-07 21:44:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-07 22:05:51 +0000"
     },
     "done": true
   },

@@ -2209,11 +2209,15 @@
     "criteria": {
       "shrubland": "2024-12-06 03:04:07 +0000",
       "rocky_shrubland": "2024-12-06 02:54:16 +0000",
+      "highland": "2024-12-07 21:59:14 +0000",
       "clover_patch": "2024-12-06 23:18:36 +0000",
       "maple_woods": "2024-12-06 23:25:15 +0000",
       "field": "2024-12-06 23:25:31 +0000",
       "coniferous_forest": "2024-12-06 02:41:22 +0000",
+      "spider_nest": "2024-12-07 22:07:02 +0000",
+      "seasonal_orchard": "2024-12-07 22:06:35 +0000",
       "fir_clearing": "2024-12-06 02:45:13 +0000",
+      "pumpkin_patch": "2024-12-07 22:03:44 +0000",
       "grassland": "2024-12-06 02:55:11 +0000",
       "glowing_grotto": "2024-12-06 04:18:03 +0000",
       "crag": "2024-12-07 02:13:12 +0000"
@@ -4907,11 +4911,60 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-07 22:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-07 22:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-07 22:03:08 +0000"
+    },
+    "done": true
+  },
+  "man:thetear": {
+    "criteria": {
+      "thetear": "2024-12-07 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-07 22:03:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-07 21:49:08 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-07 22:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-07 22:03:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2024-12-07 22:02:00 +0000",
+      "trickor_treat_5": "2024-12-07 22:01:55 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
@@ -4928,6 +4981,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-07 21:49:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 22:03:08 +0000"
     },
     "done": true
   },
