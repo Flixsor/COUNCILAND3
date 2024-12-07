@@ -355,6 +355,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-07 22:11:45 +0000",
       "minecraft:taiga": "2024-12-06 02:39:00 +0000",
       "minecraft:birch_forest": "2024-12-06 23:08:45 +0000",
       "minecraft:beach": "2024-12-06 02:31:56 +0000",
@@ -1959,6 +1960,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-06 02:27:41 +0000",
+      "minecraft:spider": "2024-12-07 22:26:40 +0000",
       "minecraft:creeper": "2024-12-06 02:43:12 +0000",
       "minecraft:cave_spider": "2024-12-07 21:21:33 +0000",
       "minecraft:zombie": "2024-12-06 04:36:25 +0000"
@@ -2214,6 +2216,7 @@
       "maple_woods": "2024-12-06 23:25:15 +0000",
       "field": "2024-12-06 23:25:31 +0000",
       "coniferous_forest": "2024-12-06 02:41:22 +0000",
+      "forested_field": "2024-12-07 22:16:33 +0000",
       "spider_nest": "2024-12-07 22:07:02 +0000",
       "seasonal_orchard": "2024-12-07 22:06:35 +0000",
       "fir_clearing": "2024-12-06 02:45:13 +0000",
@@ -4911,6 +4914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-07 22:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-07 22:02:13 +0000"
@@ -4929,6 +4938,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 22:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-07 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-07 22:26:15 +0000"
+    },
+    "done": true
+  },
   "man:thetear": {
     "criteria": {
       "thetear": "2024-12-07 22:05:06 +0000"
@@ -4938,6 +4965,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2024-12-07 22:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-07 22:26:15 +0000"
     },
     "done": true
   },
@@ -4953,9 +4986,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-07 22:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-07 22:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-07 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2024-12-07 22:08:43 +0000"
     },
     "done": true
   },
@@ -4975,6 +5026,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-07 21:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-07 22:25:53 +0000"
     },
     "done": true
   },
