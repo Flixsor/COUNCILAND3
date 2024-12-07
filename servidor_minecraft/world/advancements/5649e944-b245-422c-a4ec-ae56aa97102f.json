@@ -5209,9 +5209,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-07 20:58:54 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/brazier": {
     "criteria": {
       "has_bar": "2024-12-07 20:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-07 20:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-07 20:58:54 +0000"
     },
     "done": true
   },
@@ -5230,6 +5248,12 @@
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
       "cooking_pot": "2024-12-07 20:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-07 20:58:54 +0000"
     },
     "done": true
   },
