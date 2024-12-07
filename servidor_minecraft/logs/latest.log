@@ -4434,3 +4434,14 @@ java.util.ConcurrentModificationException: null
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [07Dec2024 21:22:41.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3898ms or 77 ticks behind
 [07Dec2024 21:24:08.489] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-620, y=62, z=-133}
+[07Dec2024 21:32:17.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: Timed out
+[07Dec2024 21:32:17.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[07Dec2024 21:32:17.809] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[07Dec2024 21:32:56.099] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@162be23a[id=<null>,name=translover69,properties={},legacy=false] (/[::1]:51576) lost connection: Timed out
+[07Dec2024 21:33:15.390] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1805, y=124, z=983}
+[07Dec2024 21:33:38.699] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@155ae3e8[id=<null>,name=translover69,properties={},legacy=false] (/[::1]:35526) lost connection: Timed out
+[07Dec2024 21:34:38.405] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[07Dec2024 21:34:44.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:46616] logged in with entity id 21289 at (-613.4725527415003, 38.0, -119.45420590551515)
+[07Dec2024 21:34:44.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[07Dec2024 21:34:45.320] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[07Dec2024 21:34:45.322] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
