@@ -4391,3 +4391,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 20:25:36.643] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1002, y=85, z=-1202}
 [07Dec2024 20:28:52.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 moved too quickly! 3.691119513763624,-2.0554624345250403,9.405918024897005
 [07Dec2024 20:28:52.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
+[07Dec2024 20:41:20.740] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-600, y=63, z=-109}
+[07Dec2024 20:44:20.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 was slain by Cave Dweller
