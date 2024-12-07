@@ -4398,3 +4398,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 20:56:52.241] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-616, y=63, z=-97}
 [07Dec2024 21:10:02.240] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-652, y=62, z=-84}
 [07Dec2024 21:14:46.440] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-624, y=62, z=-130}
+[07Dec2024 21:19:55.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: es de dia?
+[07Dec2024 21:19:59.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> si
+[07Dec2024 21:20:01.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: pa meterme
+[07Dec2024 21:20:03.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Dec2024 21:20:03.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ya<--[HERE]
+[07Dec2024 21:20:19.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> estoy aplanando la isla
+[07Dec2024 21:20:22.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> wuajajajajajaj
+[07Dec2024 21:20:36.458] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Flixsor is a7f486b4-e8f3-4532-b3eb-dc0732fb278f
+[07Dec2024 21:20:40.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flixsor[/[::1]:42030] logged in with entity id 12786 at (-1822.466955849927, 33.0, 968.2894317042505)
+[07Dec2024 21:20:40.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor joined the game
+[07Dec2024 21:20:42.474] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flixsor (18)
+[07Dec2024 21:20:42.475] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flixsor
+[07Dec2024 21:21:06.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> como es esa wea que estas aplanando la isla wwn
+[07Dec2024 21:21:13.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> pa tener espacio
+[07Dec2024 21:21:28.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> sal afuera
+[07Dec2024 21:22:00.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> estoy a la mierda
+[07Dec2024 21:22:01.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-606, y=65, z=-112} BlockPos{x=-606, y=64, z=-113}
+[07Dec2024 21:22:06.705] [IO-Worker-54/ERROR] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to store chunk [-5, 57]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1605) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1628) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[07Dec2024 21:22:41.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3898ms or 77 ticks behind
+[07Dec2024 21:24:08.489] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-620, y=62, z=-133}
