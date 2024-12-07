@@ -4412,3 +4412,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 17:17:38.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> toy ampliando mi pieza
 [07Dec2024 17:17:49.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: ta bien
 [07Dec2024 17:17:56.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[07Dec2024 17:21:12.745] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-676, y=65, z=-172}
+[07Dec2024 17:21:53.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Dec2024 17:21:53.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: spawn zombie translover69<--[HERE]
+[07Dec2024 17:24:17.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que tan lejos estas de x:-676 z:172 y:65?
+[07Dec2024 17:24:48.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] z:-172
+[07Dec2024 17:25:30.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> como 70 metros
+[07Dec2024 17:25:36.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Dec2024 17:25:58.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: que tan lejos estas de x:-676 z:-172 y:65?
+[07Dec2024 17:26:30.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> 70 metros maoma
+[07Dec2024 17:26:35.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> ppr?
+[07Dec2024 17:27:05.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: sale que spawneo un tal LUKER
+[07Dec2024 17:27:18.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> no wei k me da miedo
+[07Dec2024 17:27:36.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: pero no se que es eso asi que
+[07Dec2024 17:27:42.796] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-672, y=64, z=-166}
+[07Dec2024 17:27:47.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: a esperar
+[07Dec2024 17:28:23.249] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[07Dec2024 17:28:27.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: Timed out
+[07Dec2024 17:28:27.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[07Dec2024 17:28:27.409] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[07Dec2024 17:28:28.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:48420] logged in with entity id 20583 at (-625.6820076194298, 37.0, -123.04553971961928)
+[07Dec2024 17:28:28.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[07Dec2024 17:28:30.047] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[07Dec2024 17:28:30.048] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[07Dec2024 17:29:10.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: ahora sale que en x:-672 y:64 z:-166 spawneo la wea
+[07Dec2024 17:29:29.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> lo veo en el minimapa
+[07Dec2024 17:36:01.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected '{'
+[07Dec2024 17:36:01.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...2 64 -166 Alonso<--[HERE]
+[07Dec2024 17:36:38.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected double
+[07Dec2024 17:36:38.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...on zombie {-672 64 -166} Alonso<--[HERE]
+[07Dec2024 17:37:04.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected double
+[07Dec2024 17:37:04.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...on zombie {-672 64 -166}<--[HERE]
+[07Dec2024 17:37:12.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected double
+[07Dec2024 17:37:12.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...on zombie {-672 64 -166<--[HERE]
+[07Dec2024 17:39:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 17:39:54.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected '{'
+[07Dec2024 17:39:54.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...2 64 -166 Alonso<--[HERE]
+[07Dec2024 17:39:57.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 17:40:14.045] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-609, y=62, z=-137}
