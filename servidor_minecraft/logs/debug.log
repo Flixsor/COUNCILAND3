@@ -8585,3 +8585,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 18:41:01.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: ya
 [07Dec2024 18:41:07.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Dec2024 18:41:07.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 18:41:27.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 18:42:25.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 18:42:32.353] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1039, y=66, z=-1919}
+[07Dec2024 18:42:40.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ':'
+[07Dec2024 18:42:40.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...21 {Alonso}<--[HERE]
+[07Dec2024 18:42:53.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected '{'
+[07Dec2024 18:42:53.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...7 38 -121 [Alonso]<--[HERE]
+[07Dec2024 18:43:29.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected ':'
+[07Dec2024 18:43:29.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...21 {Alonso}<--[HERE]
+[07Dec2024 18:43:39.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 18:43:40.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 18:43:41.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 18:43:42.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 18:43:43.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 18:43:44.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 18:43:45.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 18:43:46.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 18:45:52.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 fell from a high place
+[07Dec2024 18:46:07.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 18:46:07.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 18:46:21.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=64, z=-1}
+[07Dec2024 18:46:41.645] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-24, y=67, z=24}
+[07Dec2024 18:46:54.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Zombie
+[07Dec2024 18:47:04.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: que paso ahora wn
+[07Dec2024 18:47:08.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> me cai
+[07Dec2024 18:47:12.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> wuajjajja
+[07Dec2024 18:47:21.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> -1003
+[07Dec2024 18:47:21.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to translover69: pero wn
+[07Dec2024 18:47:25.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> -40
+[07Dec2024 18:47:32.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> -1863
+[07Dec2024 18:47:55.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported translover69 to -1002.500000, -40.000000, -1862.500000
+[07Dec2024 18:51:07.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 18:51:07.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 18:56:07.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 18:56:07.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 19:00:16.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: Disconnected
+[07Dec2024 19:00:16.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[07Dec2024 19:00:16.552] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of translover69
+[07Dec2024 19:00:16.552] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[07Dec2024 19:01:07.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 19:01:07.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
