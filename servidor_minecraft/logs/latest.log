@@ -4629,3 +4629,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 20:38:41.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex has made the advancement [Into Fire]
 [08Dec2024 20:42:47.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex has made the advancement [Nightmare Fuel]
 [08Dec2024 20:51:56.146] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-605, y=62, z=-147}
+[08Dec2024 21:04:23.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex tried to swim in lava
+[08Dec2024 21:04:27.594] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-605, y=62, z=-134}
