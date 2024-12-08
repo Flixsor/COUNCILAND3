@@ -5933,6 +5933,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-08 02:40:19 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:silverfish": "2024-12-08 02:35:12 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-08 02:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-08 02:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-08 02:40:19 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
       "entered_deep_crypt": "2024-12-08 02:25:20 +0000"
@@ -5942,6 +5972,12 @@
   "deep_dark_regrowth:ethereum_gem": {
     "criteria": {
       "ethereum_gem": "2024-12-08 02:19:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-08 02:33:11 +0000"
     },
     "done": true
   },

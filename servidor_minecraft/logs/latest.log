@@ -298,3 +298,49 @@
 [08Dec2024 02:30:39.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by The Damned
 [08Dec2024 02:31:05.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by The Moonflower
 [08Dec2024 02:31:48.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Set own game mode to Survival Mode]
+[08Dec2024 02:33:11.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor has made the advancement [Pic-A-Nic Basket?]
+[08Dec2024 02:34:48.240] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-686, y=65, z=-62}
+[08Dec2024 02:37:59.217] [User Authenticator #31/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Castisho is 800495b5-ff3a-44a9-a67b-a6058c561eb7
+[08Dec2024 02:38:02.647] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[08Dec2024 02:38:02.648] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[08Dec2024 02:38:02.648] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[08Dec2024 02:38:02.648] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[08Dec2024 02:38:03.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Castisho[/[::1]:52346] logged in with entity id 153802 at (-327.4779003291927, 94.0, 444.48857736129713)
+[08Dec2024 02:38:03.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Castisho joined the game
+[08Dec2024 02:38:05.596] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Castisho (18)
+[08Dec2024 02:38:05.597] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Castisho
+[08Dec2024 02:38:24.992] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[08Dec2024 02:38:24.994] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[08Dec2024 02:38:24.994] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[08Dec2024 02:38:24.994] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[08Dec2024 02:38:30.343] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[08Dec2024 02:38:30.344] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[08Dec2024 02:38:30.344] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[08Dec2024 02:38:30.344] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[08Dec2024 02:38:32.023] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[08Dec2024 02:38:32.024] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[08Dec2024 02:38:32.024] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[08Dec2024 02:38:32.024] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[08Dec2024 02:38:34.065] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[08Dec2024 02:38:34.065] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[08Dec2024 02:38:34.065] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[08Dec2024 02:38:34.065] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[08Dec2024 02:39:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex has made the advancement [The Tear Of The Man]
+[08Dec2024 02:39:52.746] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[08Dec2024 02:39:52.746] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[08Dec2024 02:39:52.747] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[08Dec2024 02:39:52.747] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[08Dec2024 02:39:57.918] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[08Dec2024 02:39:57.918] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[08Dec2024 02:39:57.919] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[08Dec2024 02:39:57.919] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[08Dec2024 02:39:58.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Castisho moved too quickly! -0.43997021340385345,0.9893499858739716,-10.044883939802787
+[08Dec2024 02:39:58.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 moved too quickly! -0.04677924889909946,0.0,10.144222626569075
+[08Dec2024 02:39:58.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[08Dec2024 02:41:19.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> zzz
+[08Dec2024 02:41:31.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Castisho> el alonso no puede
+[08Dec2024 02:41:33.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Castisho> ban
+[08Dec2024 02:41:45.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> ./ban alonso_miranda
+[08Dec2024 02:42:22.090] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-389, y=89, z=332}
+[08Dec2024 02:42:59.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex has made the advancement [The Wind Darkening]
+[08Dec2024 02:43:07.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex has completed the challenge [Blood of the great ent]
