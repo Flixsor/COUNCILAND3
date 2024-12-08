@@ -154,3 +154,71 @@
 [08Dec2024 01:41:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> bueeeee
 [08Dec2024 01:41:46.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> que pasa
 [08Dec2024 01:41:53.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> y uno humilde
+[08Dec2024 01:42:40.493] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-633, y=63, z=-44}
+[08Dec2024 01:42:53.829] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Dec2024 01:42:53.830] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Dec2024 01:43:38.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> asi nomas po
+[08Dec2024 01:43:42.192] [Worker-Main-196/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, 63], pos: BlockPos{x=-460, y=-39, z=1008}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:43:42.192] [Worker-Main-196/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, 63], pos: BlockPos{x=-461, y=-39, z=1008}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:43:42.193] [Worker-Main-196/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, 63], pos: BlockPos{x=-462, y=-39, z=1008}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:43:42.193] [Worker-Main-196/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, 63], pos: BlockPos{x=-458, y=-36, z=1008}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:43:42.387] [Worker-Main-196/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-30, 63], pos: BlockPos{x=-469, y=-54, z=1008}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:43:42.388] [Worker-Main-196/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-30, 63], pos: BlockPos{x=-468, y=-54, z=1008}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:43:42.388] [Worker-Main-196/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-30, 63], pos: BlockPos{x=-467, y=-54, z=1008}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:43:42.388] [Worker-Main-196/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-30, 63], pos: BlockPos{x=-471, y=-51, z=1008}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:43:53.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> han explorado?
+[08Dec2024 01:43:54.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor has made the advancement [Cover Me with Diamonds]
+[08Dec2024 01:44:04.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> BUEEEEEEEE
+[08Dec2024 01:44:25.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 was slain by Cave Dweller
+[08Dec2024 01:44:59.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> zz?
+[08Dec2024 01:45:11.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> justo cuando bajo a la mina
+[08Dec2024 01:45:16.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> lo que me faltaba
+[08Dec2024 01:45:21.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> y la camita de bolsillo?
+[08Dec2024 01:45:35.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> modo sedentario amigo
+[08Dec2024 01:45:39.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> no soy nomada
+[08Dec2024 01:45:53.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> oe duerme conchetumare
+[08Dec2024 01:46:04.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> hay q moverse compañero
+[08Dec2024 01:46:09.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> yapo
+[08Dec2024 01:46:10.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> pa fortalecer la musculatura
+[08Dec2024 01:46:10.541] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-555, y=67, z=899}
+[08Dec2024 01:46:12.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> siono
+[08Dec2024 01:46:56.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> weooon
+[08Dec2024 01:46:57.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> encontre
+[08Dec2024 01:47:01.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> a herobrine
+[08Dec2024 01:47:03.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> q tengo q hacer
+[08Dec2024 01:47:06.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> mish
+[08Dec2024 01:47:12.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> pvpea?
+[08Dec2024 01:47:15.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> matalo
+[08Dec2024 01:47:22.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> csm
+[08Dec2024 01:47:30.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> se fue
+[08Dec2024 01:48:25.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor has made the advancement [Night Night]
+[08Dec2024 01:49:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Set own game mode to Creative Mode]
+[08Dec2024 01:49:58.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Set own game mode to Survival Mode]
+[08Dec2024 01:50:26.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Gave 15 [Steak] to Flixsor]
+[08Dec2024 01:51:11.682] [Worker-Main-198/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-19, 84], pos: BlockPos{x=-304, y=-43, z=1352}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:51:11.683] [Worker-Main-198/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-19, 84], pos: BlockPos{x=-304, y=-43, z=1353}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:51:11.683] [Worker-Main-198/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-19, 84], pos: BlockPos{x=-304, y=-43, z=1354}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:51:11.683] [Worker-Main-198/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-19, 84], pos: BlockPos{x=-304, y=-40, z=1350}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:53:34.163] [Worker-Main-204/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-17, 78], pos: BlockPos{x=-257, y=-44, z=1258}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:53:34.163] [Worker-Main-204/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-17, 78], pos: BlockPos{x=-257, y=-44, z=1259}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:53:34.163] [Worker-Main-204/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-17, 78], pos: BlockPos{x=-257, y=-44, z=1260}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:53:34.164] [Worker-Main-204/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-17, 78], pos: BlockPos{x=-257, y=-41, z=1256}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 01:56:58.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> zz
+[08Dec2024 01:57:40.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> no puedo
+[08Dec2024 01:57:49.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> ZZ
+[08Dec2024 01:58:44.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[08Dec2024 01:59:11.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flixsor lost connection: Timed out
+[08Dec2024 01:59:11.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor left the game
+[08Dec2024 01:59:11.058] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flixsor
+[08Dec2024 01:59:16.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2332ms or 46 ticks behind
+[08Dec2024 01:59:26.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> zzzzzzzzzzzzzzzzzzz
+[08Dec2024 01:59:34.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> ahora si
+[08Dec2024 01:59:38.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> justo mil bixos klos
+[08Dec2024 01:59:42.319] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Flixsor is a7f486b4-e8f3-4532-b3eb-dc0732fb278f
+[08Dec2024 01:59:46.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flixsor[/[::1]:36268] logged in with entity id 126408 at (-571.8614437122204, -13.0, 22.870439456227945)
+[08Dec2024 01:59:46.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor joined the game
+[08Dec2024 01:59:47.418] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flixsor (18)
+[08Dec2024 01:59:47.419] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flixsor
+[08Dec2024 02:00:36.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sensorlex lost connection: Timed out
+[08Dec2024 02:00:36.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex left the game
+[08Dec2024 02:00:36.308] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sensorlex
