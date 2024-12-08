@@ -361,9 +361,11 @@
       "minecraft:beach": "2024-12-06 02:31:56 +0000",
       "minecraft:dark_forest": "2024-12-06 23:17:27 +0000",
       "minecraft:river": "2024-12-06 02:37:37 +0000",
+      "minecraft:swamp": "2024-12-08 03:13:28 +0000",
       "minecraft:forest": "2024-12-06 02:16:02 +0000",
       "minecraft:ocean": "2024-12-06 02:54:19 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-06 23:25:46 +0000",
+      "minecraft:flower_forest": "2024-12-08 03:03:59 +0000",
       "minecraft:plains": "2024-12-07 22:33:59 +0000"
     },
     "done": false
@@ -2228,6 +2230,7 @@
       "fir_clearing": "2024-12-06 02:45:13 +0000",
       "pumpkin_patch": "2024-12-07 22:03:44 +0000",
       "grassland": "2024-12-06 02:55:11 +0000",
+      "prairie": "2024-12-08 03:03:55 +0000",
       "glowing_grotto": "2024-12-06 04:18:03 +0000",
       "crag": "2024-12-07 02:13:12 +0000"
     },
@@ -5938,6 +5941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-08 03:08:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-08 02:40:19 +0000"
@@ -5962,6 +5971,12 @@
     },
     "done": false
   },
+  "delightful:recipes/salmonberry_pips": {
+    "criteria": {
+      "has_salmonberries": "2024-12-08 03:04:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
     "criteria": {
       "has_feather": "2024-12-08 02:40:18 +0000"
@@ -5974,9 +5989,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-12-08 03:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-08 03:08:16 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/medium_graveyard": {
+    "criteria": {
+      "medium_graveyard": "2024-12-08 03:04:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-08 02:40:19 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jelly_bottle": {
+    "criteria": {
+      "has_sweet_fruit": "2024-12-08 03:04:19 +0000"
     },
     "done": true
   },
@@ -5992,15 +6031,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-08 03:05:14 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/gummy/salmonberries": {
+    "criteria": {
+      "has_salmonberries": "2024-12-08 03:04:19 +0000"
+    },
+    "done": true
+  },
   "deep_dark_regrowth:ethereum_gem": {
     "criteria": {
       "ethereum_gem": "2024-12-08 02:19:58 +0000"
     },
     "done": true
   },
+  "delightful:recipes/storage/salmonberry_storage_block": {
+    "criteria": {
+      "has_salmonberry": "2024-12-08 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2024-12-08 03:04:21 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2024-12-08 02:33:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-08 03:05:14 +0000"
     },
     "done": true
   },

@@ -430,3 +430,59 @@
 [08Dec2024 03:03:35.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Set the weather to clear]
 [08Dec2024 03:03:40.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [08Dec2024 03:03:40.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by Spider Moth
+[08Dec2024 03:04:01.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was shot by Spider Moth Larvae
+[08Dec2024 03:04:02.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[08Dec2024 03:04:23.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6399ms or 127 ticks behind
+[08Dec2024 03:04:49.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor has made the advancement [Disturbing the Dead I]
+[08Dec2024 03:05:03.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved too quickly! 1.5110059191873688,-1.0,9.996449966053206
+[08Dec2024 03:06:01.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Castisho was slain by Tasmanian Devil
+[08Dec2024 03:06:55.416] [User Authenticator #36/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Castisho is 800495b5-ff3a-44a9-a67b-a6058c561eb7
+[08Dec2024 03:07:00.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Castisho lost connection: You logged in from another location
+[08Dec2024 03:07:00.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Castisho left the game
+[08Dec2024 03:07:00.218] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Castisho
+[08Dec2024 03:07:00.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Castisho[/[::1]:51928] logged in with entity id 192355 at (-608.4472304303765, 57.0, -126.15886955355343)
+[08Dec2024 03:07:00.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Castisho joined the game
+[08Dec2024 03:07:01.129] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Castisho (18)
+[08Dec2024 03:07:01.130] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Castisho
+[08Dec2024 03:07:23.542] [User Authenticator #37/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[08Dec2024 03:07:32.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: Timed out
+[08Dec2024 03:07:32.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[08Dec2024 03:07:32.678] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[08Dec2024 03:07:32.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:38682] logged in with entity id 193035 at (-312.2286689345427, -58.0, 222.69999998807907)
+[08Dec2024 03:07:32.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[08Dec2024 03:07:33.340] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[08Dec2024 03:07:33.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[08Dec2024 03:08:25.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[08Dec2024 03:09:05.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved too quickly! -2.4666839847585607,5.0,-8.488023479819503
+[08Dec2024 03:09:05.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved too quickly! -2.5003265012311147,5.0,-8.90732352805503
+[08Dec2024 03:09:05.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved too quickly! -2.5131797265041484,6.0,-9.327615012287765
+[08Dec2024 03:09:05.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved too quickly! -2.4222791150050966,6.0,-9.726973634954334
+[08Dec2024 03:09:05.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved too quickly! -2.2758618940776216,6.5,-10.115131500753137
+[08Dec2024 03:09:05.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved too quickly! -2.1011134659979405,6.5,-10.498059359657077
+[08Dec2024 03:09:05.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved wrongly! 0.8542808414457568
+[08Dec2024 03:09:05.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved wrongly! 0.2645619482283337
+[08Dec2024 03:09:06.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved wrongly! 0.4840951883448952
+[08Dec2024 03:09:06.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved wrongly! 0.6015630481107337
+[08Dec2024 03:09:06.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved wrongly! 0.6644177578149311
+[08Dec2024 03:09:06.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved wrongly! 0.6980500597899209
+[08Dec2024 03:09:06.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved wrongly! 0.7160460340210193
+[08Dec2024 03:09:06.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved wrongly! 0.7256753210310762
+[08Dec2024 03:09:23.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved wrongly! 0.2538008714110447
+[08Dec2024 03:09:23.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of Sensorlex) moved wrongly! 0.6612823864375059
+[08Dec2024 03:11:37.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by Vex
+[08Dec2024 03:11:45.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flixsor moved too quickly! -3.234963308233091,-6.0,-7.348593240455557
+[08Dec2024 03:11:45.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3724ms or 74 ticks behind
+[08Dec2024 03:11:50.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flixsor moved too quickly! -2.7243212919981943,3.1661092609382138,-9.110942249922118
+[08Dec2024 03:12:26.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by The Damned
+[08Dec2024 03:13:51.575] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-336, y=69, z=276}
+[08Dec2024 03:14:03.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sensorlex moved too quickly! 2.9090692694242932,-0.2277792520400368,9.614843147985198
+[08Dec2024 03:14:03.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flixsor moved too quickly! -9.27854891918605,1.0,3.760144182575914
+[08Dec2024 03:14:03.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2980ms or 59 ticks behind
+[08Dec2024 03:14:25.199] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[08Dec2024 03:14:25.200] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[08Dec2024 03:14:25.200] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[08Dec2024 03:14:25.200] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[08Dec2024 03:14:25.245] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[08Dec2024 03:14:25.246] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[08Dec2024 03:14:25.246] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[08Dec2024 03:14:25.246] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}

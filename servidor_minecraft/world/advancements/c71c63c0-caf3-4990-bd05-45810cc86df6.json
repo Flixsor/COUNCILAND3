@@ -2757,6 +2757,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2024-12-08 01:41:47 +0000",
       "entered_stables": "2024-12-08 02:50:35 +0000",
+      "entered_druid_circle": "2024-12-08 03:07:17 +0000",
       "entered_large_dungeon": "2024-12-06 03:27:04 +0000",
       "entered_watch_tower": "2024-12-08 02:32:25 +0000",
       "entered_ruined_building": "2024-12-06 02:37:10 +0000"
@@ -3765,6 +3766,7 @@
       "minecraft:vindicator": "2024-12-06 02:46:24 +0000",
       "minecraft:spider": "2024-12-06 02:58:33 +0000",
       "minecraft:creeper": "2024-12-06 03:58:32 +0000",
+      "minecraft:evoker": "2024-12-08 03:11:28 +0000",
       "minecraft:cave_spider": "2024-12-06 04:16:46 +0000",
       "minecraft:zombie": "2024-12-06 04:13:39 +0000",
       "minecraft:zombie_villager": "2024-12-08 02:46:02 +0000"
@@ -5649,9 +5651,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-08 03:10:37 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-08 02:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-12-08 03:10:37 +0000"
     },
     "done": true
   },
