@@ -4384,3 +4384,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 19:07:09.519] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sensorlex (18)
 [08Dec2024 19:07:09.521] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sensorlex
 [08Dec2024 19:07:46.947] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-619, y=62, z=-100}
+[08Dec2024 19:20:16.995] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-639, y=63, z=-212}
