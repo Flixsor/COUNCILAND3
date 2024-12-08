@@ -57,3 +57,27 @@
 [08Dec2024 00:16:49.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flixsor lost connection: Timed out
 [08Dec2024 00:16:49.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor left the game
 [08Dec2024 00:16:49.014] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flixsor
+[08Dec2024 00:20:52.717] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[08Dec2024 00:20:57.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 was slain by Sucker
+[08Dec2024 00:20:57.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: You logged in from another location
+[08Dec2024 00:20:57.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[08Dec2024 00:20:57.950] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[08Dec2024 00:20:57.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:33612] logged in with entity id 92897 at (-1121.340374760206, 23.0, 73.78678630184591)
+[08Dec2024 00:20:57.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[08Dec2024 00:20:58.405] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[08Dec2024 00:20:58.405] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[08Dec2024 00:21:08.072] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-619, y=62, z=-96}
+[08Dec2024 00:23:46.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> -1122
+[08Dec2024 00:23:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> 23
+[08Dec2024 00:24:01.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> 73
+[08Dec2024 00:24:09.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> -1122 23 73
+[08Dec2024 00:24:38.090] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-627, y=62, z=-142}
+[08Dec2024 00:26:06.126] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[08Dec2024 00:26:11.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: You logged in from another location
+[08Dec2024 00:26:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[08Dec2024 00:26:11.253] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[08Dec2024 00:26:11.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:55104] logged in with entity id 94032 at (-609.7338689145638, 49.0, -120.39979956523109)
+[08Dec2024 00:26:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[08Dec2024 00:26:11.721] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[08Dec2024 00:26:11.722] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[08Dec2024 00:30:13.090] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1091, y=69, z=93}
