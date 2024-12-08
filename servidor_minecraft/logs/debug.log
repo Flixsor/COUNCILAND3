@@ -8482,3 +8482,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 20:42:47.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex has made the advancement [Nightmare Fuel]
 [08Dec2024 20:44:40.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Dec2024 20:44:40.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 20:49:40.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 20:49:40.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 20:51:56.146] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-605, y=62, z=-147}
+[08Dec2024 20:54:40.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 20:54:40.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
