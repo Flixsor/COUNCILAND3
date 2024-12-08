@@ -3762,6 +3762,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-08 20:38:35 +0000",
       "minecraft:skeleton": "2024-12-06 03:29:46 +0000",
       "minecraft:vindicator": "2024-12-06 02:46:24 +0000",
       "minecraft:spider": "2024-12-06 02:58:33 +0000",
@@ -5960,10 +5961,17 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-08 20:39:51 +0000",
       "minecraft:nether_wastes": "2024-12-08 20:26:14 +0000",
       "minecraft:soul_sand_valley": "2024-12-08 20:27:02 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-08 20:38:41 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
@@ -6019,6 +6027,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-08 20:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-08 20:28:44 +0000"
@@ -6052,6 +6066,18 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-08 20:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-08 20:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-08 20:38:41 +0000"
     },
     "done": true
   },
