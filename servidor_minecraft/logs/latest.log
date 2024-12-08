@@ -4631,3 +4631,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 20:51:56.146] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-605, y=62, z=-147}
 [08Dec2024 21:04:23.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex tried to swim in lava
 [08Dec2024 21:04:27.594] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-605, y=62, z=-134}
+[08Dec2024 21:07:01.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sensorlex lost connection: Timed out
+[08Dec2024 21:07:01.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex left the game
+[08Dec2024 21:07:01.954] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sensorlex
