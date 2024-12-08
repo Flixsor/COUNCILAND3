@@ -4406,3 +4406,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 19:42:26.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex joined the game
 [08Dec2024 19:42:27.504] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sensorlex (18)
 [08Dec2024 19:42:27.505] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sensorlex
+[08Dec2024 19:44:26.644] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-637, y=72, z=-606}
+[08Dec2024 19:46:46.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5349ms or 106 ticks behind
+[08Dec2024 19:46:47.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex burned to death
+[08Dec2024 19:53:57.542] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sensorlex is c71c63c0-caf3-4990-bd05-45810cc86df6
+[08Dec2024 19:54:00.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sensorlex lost connection: You logged in from another location
+[08Dec2024 19:54:00.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex left the game
+[08Dec2024 19:54:00.603] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sensorlex
+[08Dec2024 19:54:00.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sensorlex[/[::1]:59860] logged in with entity id 11448 at (-607.4291125975252, -58.0, -668.201393263)
+[08Dec2024 19:54:00.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex joined the game
+[08Dec2024 19:54:01.260] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sensorlex (18)
+[08Dec2024 19:54:01.261] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sensorlex
+[08Dec2024 19:54:03.945] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-620, y=63, z=-661}
