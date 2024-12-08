@@ -124,3 +124,33 @@
 [08Dec2024 01:16:20.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 has made the advancement [Dark Metallurgy]
 [08Dec2024 01:17:44.490] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1298, y=63, z=39}
 [08Dec2024 01:18:10.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Teleported translover69 to Flixsor]
+[08Dec2024 01:33:10.441] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-596, y=62, z=-145}
+[08Dec2024 01:36:15.597] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sensorlex is c71c63c0-caf3-4990-bd05-45810cc86df6
+[08Dec2024 01:36:18.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sensorlex[/[::1]:47534] logged in with entity id 111446 at (-990.200256869849, 73.0, 193.23168098556738)
+[08Dec2024 01:36:18.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex joined the game
+[08Dec2024 01:36:20.130] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sensorlex (18)
+[08Dec2024 01:36:20.132] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sensorlex
+[08Dec2024 01:36:32.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> ola geis
+[08Dec2024 01:36:39.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> metete al ds
+[08Dec2024 01:36:53.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> calmao
+[08Dec2024 01:36:58.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> en 15 min toi en ds
+[08Dec2024 01:37:15.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> Cacharon el juego nuevo F2P
+[08Dec2024 01:37:18.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> el Delta Force
+[08Dec2024 01:37:25.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> ta pulento igual es corte battlefield
+[08Dec2024 01:37:29.714] [User Authenticator #25/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[08Dec2024 01:37:35.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: You logged in from another location
+[08Dec2024 01:37:35.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[08Dec2024 01:37:35.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[08Dec2024 01:37:35.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:41336] logged in with entity id 111959 at (-614.4650028817712, 38.0, -120.74843276533065)
+[08Dec2024 01:37:35.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[08Dec2024 01:37:35.527] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[08Dec2024 01:37:35.528] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[08Dec2024 01:37:47.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> yo no caxe na
+[08Dec2024 01:37:52.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> wuajajajjajaja
+[08Dec2024 01:38:18.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> xD
+[08Dec2024 01:41:19.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Gave 1000 experience points to Flixsor]
+[08Dec2024 01:41:26.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Gave 500 experience points to Flixsor]
+[08Dec2024 01:41:33.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor has made the advancement [Enchanter]
+[08Dec2024 01:41:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> bueeeee
+[08Dec2024 01:41:46.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> que pasa
+[08Dec2024 01:41:53.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> y uno humilde
