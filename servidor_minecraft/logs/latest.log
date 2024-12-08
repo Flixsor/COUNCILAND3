@@ -81,3 +81,5 @@
 [08Dec2024 00:26:11.721] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
 [08Dec2024 00:26:11.722] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
 [08Dec2024 00:30:13.090] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1091, y=69, z=93}
+[08Dec2024 00:34:02.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 has made the advancement [Double Trouble]
+[08Dec2024 00:37:57.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 was slain by The Somnolence
