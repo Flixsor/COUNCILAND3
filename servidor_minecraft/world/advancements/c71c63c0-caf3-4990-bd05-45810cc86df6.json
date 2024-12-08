@@ -2756,6 +2756,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2024-12-08 01:41:47 +0000",
+      "entered_stables": "2024-12-08 02:50:35 +0000",
       "entered_large_dungeon": "2024-12-06 03:27:04 +0000",
       "entered_watch_tower": "2024-12-08 02:32:25 +0000",
       "entered_ruined_building": "2024-12-06 02:37:10 +0000"
@@ -3765,7 +3766,8 @@
       "minecraft:spider": "2024-12-06 02:58:33 +0000",
       "minecraft:creeper": "2024-12-06 03:58:32 +0000",
       "minecraft:cave_spider": "2024-12-06 04:16:46 +0000",
-      "minecraft:zombie": "2024-12-06 04:13:39 +0000"
+      "minecraft:zombie": "2024-12-06 04:13:39 +0000",
+      "minecraft:zombie_villager": "2024-12-08 02:46:02 +0000"
     },
     "done": false
   },
@@ -4510,6 +4512,8 @@
       "clover_patch": "2024-12-06 04:39:49 +0000",
       "field": "2024-12-08 01:46:11 +0000",
       "coniferous_forest": "2024-12-08 01:51:01 +0000",
+      "redwood_forest": "2024-12-08 02:50:34 +0000",
+      "lavender_field": "2024-12-08 02:43:53 +0000",
       "fir_clearing": "2024-12-06 03:37:49 +0000",
       "grassland": "2024-12-06 03:25:59 +0000",
       "crag": "2024-12-08 01:44:49 +0000"
@@ -5633,9 +5637,33 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-08 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-08 02:44:28 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-08 02:28:28 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:earthyblood": {
+    "criteria": {
+      "earthyblood_0": "2024-12-08 02:43:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-08 02:54:56 +0000"
     },
     "done": true
   },

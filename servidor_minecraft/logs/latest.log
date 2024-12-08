@@ -344,3 +344,89 @@
 [08Dec2024 02:42:22.090] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-389, y=89, z=332}
 [08Dec2024 02:42:59.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex has made the advancement [The Wind Darkening]
 [08Dec2024 02:43:07.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex has completed the challenge [Blood of the great ent]
+[08Dec2024 02:43:43.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sensorlex moved too quickly! 9.192254408241297,-4.0,-1.9624142974894312
+[08Dec2024 02:43:43.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 moved too quickly! -0.10328316959390804,0.0,-10.020808434391654
+[08Dec2024 02:43:43.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5408ms or 108 ticks behind
+[08Dec2024 02:44:24.463] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[08Dec2024 02:44:24.464] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[08Dec2024 02:44:24.464] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[08Dec2024 02:44:24.464] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[08Dec2024 02:44:28.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex has made the advancement [Life turned out to be a comedy]
+[08Dec2024 02:45:01.265] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[08Dec2024 02:45:01.266] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[08Dec2024 02:45:01.266] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[08Dec2024 02:45:01.266] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[08Dec2024 02:46:20.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Castisho lost connection: Timed out
+[08Dec2024 02:46:20.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Castisho left the game
+[08Dec2024 02:46:20.427] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Castisho
+[08Dec2024 02:46:37.600] [User Authenticator #32/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Castisho is 800495b5-ff3a-44a9-a67b-a6058c561eb7
+[08Dec2024 02:46:42.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Castisho[/[::1]:39084] logged in with entity id 162500 at (-380.5867045897365, 83.0, 343.69999998807907)
+[08Dec2024 02:46:42.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Castisho joined the game
+[08Dec2024 02:46:43.482] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Castisho (18)
+[08Dec2024 02:46:43.482] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Castisho
+[08Dec2024 02:47:17.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by Man From The Fog
+[08Dec2024 02:48:14.285] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[08Dec2024 02:48:19.971] [Worker-Main-198/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 101], pos: BlockPos{x=655, y=-25, z=1620}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 02:48:19.971] [Worker-Main-198/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 101], pos: BlockPos{x=655, y=-25, z=1621}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 02:48:19.971] [Worker-Main-198/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 101], pos: BlockPos{x=655, y=-25, z=1622}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 02:48:19.972] [Worker-Main-198/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 101], pos: BlockPos{x=655, y=-22, z=1618}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[08Dec2024 02:48:28.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sensorlex moved too quickly! -1.5809003856968502,-3.0,-9.524876185806306
+[08Dec2024 02:48:28.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
+[08Dec2024 02:51:55.383] [Worker-Main-204/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Dec2024 02:53:14.709] [User Authenticator #33/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[08Dec2024 02:53:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 was slain by Cave Dweller
+[08Dec2024 02:53:21.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: You logged in from another location
+[08Dec2024 02:53:21.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[08Dec2024 02:53:21.248] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[08Dec2024 02:53:21.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:40058] logged in with entity id 172753 at (-312.46497117628456, -58.0, 213.71521251455403)
+[08Dec2024 02:53:21.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[08Dec2024 02:53:21.749] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[08Dec2024 02:53:21.751] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[08Dec2024 02:53:34.793] [User Authenticator #34/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[08Dec2024 02:53:40.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: You logged in from another location
+[08Dec2024 02:53:40.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[08Dec2024 02:53:40.366] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[08Dec2024 02:53:40.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:55438] logged in with entity id 172990 at (-312.46497117628456, -58.0, 213.71521251455403)
+[08Dec2024 02:53:40.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[08Dec2024 02:53:40.912] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[08Dec2024 02:53:40.913] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[08Dec2024 02:53:42.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Set the time to 1000]
+[08Dec2024 02:54:08.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> pipe
+[08Dec2024 02:54:12.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+[08Dec2024 02:54:14.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+[08Dec2024 02:54:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+[08Dec2024 02:55:21.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Castisho> -313 -58 213
+[08Dec2024 02:55:31.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
+[08Dec2024 02:55:50.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Teleported translover69 to -312.500000, -58.000000, 213.500000]
+[08Dec2024 02:55:51.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[08Dec2024 02:58:38.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[08Dec2024 02:59:06.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flixsor moved too quickly! -8.29228545682463,-5.0,-3.3961745153310403
+[08Dec2024 02:59:06.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5144ms or 102 ticks behind
+[08Dec2024 02:59:46.836] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[08Dec2024 02:59:47.848] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[08Dec2024 02:59:55.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flixsor moved too quickly! -9.997518825488555,0.5061351021062137,-1.8189951433146234
+[08Dec2024 02:59:55.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[08Dec2024 03:00:47.482] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[08Dec2024 03:01:09.841] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=941, y=71, z=934}
+[08Dec2024 03:01:31.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flixsor moved too quickly! -8.44722912803195,-0.3693736602695026,5.48800706912948
+[08Dec2024 03:01:31.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17030ms or 340 ticks behind
+[08Dec2024 03:01:31.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sensorlex> a
+[08Dec2024 03:01:45.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[08Dec2024 03:01:46.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Castisho lost connection: Timed out
+[08Dec2024 03:01:46.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Castisho left the game
+[08Dec2024 03:01:46.628] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Castisho
+[08Dec2024 03:01:55.124] [User Authenticator #35/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Castisho is 800495b5-ff3a-44a9-a67b-a6058c561eb7
+[08Dec2024 03:01:59.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Castisho[/[::1]:47860] logged in with entity id 184351 at (-997.3594391771123, 69.0, 182.49527816162956)
+[08Dec2024 03:01:59.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Castisho joined the game
+[08Dec2024 03:02:00.963] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Castisho (18)
+[08Dec2024 03:02:00.963] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Castisho
+[08Dec2024 03:02:20.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Flixsor> zzzzzzzzzzzzzzzzzzzzz
+[08Dec2024 03:02:37.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Set the weather to rain & thunder]
+[08Dec2024 03:02:52.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Set the weather to clear]
+[08Dec2024 03:03:19.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flixsor moved too quickly! -9.856350463254785,-0.16779664663324922,2.310829039103737
+[08Dec2024 03:03:19.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3635ms or 72 ticks behind
+[08Dec2024 03:03:28.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Set the time to 1000]
+[08Dec2024 03:03:28.429] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[08Dec2024 03:03:35.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Set the weather to clear]
+[08Dec2024 03:03:40.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Dec2024 03:03:40.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by Spider Moth
