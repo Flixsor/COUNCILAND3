@@ -8047,3 +8047,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 19:54:01.261] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Sensorlex
 [08Dec2024 19:54:01.261] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sensorlex
 [08Dec2024 19:54:03.945] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-620, y=63, z=-661}
+[08Dec2024 19:54:37.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:54:37.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:59:37.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:59:37.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
