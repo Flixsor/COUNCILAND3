@@ -83,3 +83,22 @@
 [08Dec2024 00:30:13.090] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1091, y=69, z=93}
 [08Dec2024 00:34:02.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 has made the advancement [Double Trouble]
 [08Dec2024 00:37:57.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 was slain by The Somnolence
+[08Dec2024 00:45:13.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: Timed out
+[08Dec2024 00:45:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[08Dec2024 00:45:13.546] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[08Dec2024 00:45:34.840] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@103cadfc[id=<null>,name=translover69,properties={},legacy=false] (/[::1]:37346) lost connection: Timed out
+[08Dec2024 00:46:43.588] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[08Dec2024 00:46:49.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:41022] logged in with entity id 99702 at (-1210.5074451339044, -20.0, 33.386660956405265)
+[08Dec2024 00:46:49.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[08Dec2024 00:46:50.120] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[08Dec2024 00:46:50.120] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[08Dec2024 00:49:03.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 was slain by Cave Dweller
+[08Dec2024 00:50:24.540] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-658, y=62, z=-129}
+[08Dec2024 00:50:34.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: Timed out
+[08Dec2024 00:50:34.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[08Dec2024 00:50:34.795] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[08Dec2024 00:50:39.071] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[08Dec2024 00:50:45.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:49278] logged in with entity id 101315 at (-611.5, 38.0, -123.5)
+[08Dec2024 00:50:45.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[08Dec2024 00:50:45.822] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[08Dec2024 00:50:45.823] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
