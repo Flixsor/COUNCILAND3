@@ -102,3 +102,4 @@
 [08Dec2024 00:50:45.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
 [08Dec2024 00:50:45.822] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
 [08Dec2024 00:50:45.823] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[08Dec2024 00:54:39.490] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-611, y=62, z=-147}

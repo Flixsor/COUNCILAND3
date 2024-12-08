@@ -12220,3 +12220,8 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [08Dec2024 00:50:45.823] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with translover69
 [08Dec2024 00:50:45.823] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with translover69
 [08Dec2024 00:50:45.823] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[08Dec2024 00:52:49.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 00:52:49.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 00:54:39.490] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-611, y=62, z=-147}
+[08Dec2024 00:57:49.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 00:57:49.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
