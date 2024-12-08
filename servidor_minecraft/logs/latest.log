@@ -486,3 +486,86 @@
 [08Dec2024 03:14:25.246] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
 [08Dec2024 03:14:25.246] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
 [08Dec2024 03:14:25.246] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[08Dec2024 03:14:35.484] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[08Dec2024 03:14:35.485] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[08Dec2024 03:14:35.485] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[08Dec2024 03:14:35.485] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[08Dec2024 03:14:38.531] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[08Dec2024 03:14:38.532] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[08Dec2024 03:14:38.532] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[08Dec2024 03:14:38.532] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[08Dec2024 03:14:41.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5395ms or 107 ticks behind
+[08Dec2024 03:14:51.071] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[08Dec2024 03:14:51.072] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[08Dec2024 03:14:51.072] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[08Dec2024 03:14:51.072] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[08Dec2024 03:15:02.961] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[08Dec2024 03:15:02.962] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[08Dec2024 03:15:02.962] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[08Dec2024 03:15:02.962] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[08Dec2024 03:15:04.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8039ms or 160 ticks behind
+[08Dec2024 03:15:20.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by Man From The Fog
+[08Dec2024 03:17:20.496] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[08Dec2024 03:17:20.497] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[08Dec2024 03:17:20.497] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[08Dec2024 03:17:20.497] [Worker-Main-196/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[08Dec2024 03:17:20.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flixsor moved too quickly! 8.636933810567598,1.8232407249357578,-4.8618107157640225
+[08Dec2024 03:17:20.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2805ms or 56 ticks behind
+[08Dec2024 03:17:25.253] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[08Dec2024 03:17:25.254] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[08Dec2024 03:17:25.254] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[08Dec2024 03:17:25.254] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[08Dec2024 03:19:40.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor has completed the challenge [It Spreads]
+[08Dec2024 03:19:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor died
+[08Dec2024 03:20:15.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by Vex
+[08Dec2024 03:20:22.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Set own game mode to Creative Mode]
+[08Dec2024 03:22:03.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Set own game mode to Survival Mode]
+[08Dec2024 03:22:08.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 was slain by Cave Dweller
+[08Dec2024 03:22:30.949] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[08Dec2024 03:22:36.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> x:-307, y:-58, z:208
+[08Dec2024 03:22:54.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[08Dec2024 03:23:17.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Teleported translover69 to -306.500000, -58.000000, 208.500000]
+[08Dec2024 03:23:24.406] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[08Dec2024 03:23:39.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Summoned new Cave Dweller]
+[08Dec2024 03:23:52.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 was slain by Cave Dweller
+[08Dec2024 03:24:27.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Teleported translover69 to -306.500000, -58.000000, 208.500000]
+[08Dec2024 03:25:18.041] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[08Dec2024 03:25:59.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by The Damned
+[08Dec2024 03:26:02.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3571ms or 71 ticks behind
+[08Dec2024 03:26:23.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sensorlex lost connection: Timed out
+[08Dec2024 03:26:23.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex left the game
+[08Dec2024 03:26:23.014] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sensorlex
+[08Dec2024 03:27:04.913] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@bb067b3[id=<null>,name=Sensorlex,properties={},legacy=false] (/[::1]:53610) lost connection: Timed out
+[08Dec2024 03:27:17.235] [User Authenticator #38/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sensorlex is c71c63c0-caf3-4990-bd05-45810cc86df6
+[08Dec2024 03:27:21.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sensorlex[/[::1]:39540] logged in with entity id 218136 at (-339.5, 63.0, 79.5)
+[08Dec2024 03:27:21.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex joined the game
+[08Dec2024 03:27:21.817] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sensorlex (18)
+[08Dec2024 03:27:21.819] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sensorlex
+[08Dec2024 03:27:52.592] [User Authenticator #39/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[08Dec2024 03:27:58.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: You logged in from another location
+[08Dec2024 03:27:58.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[08Dec2024 03:27:58.217] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[08Dec2024 03:27:58.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:46852] logged in with entity id 218819 at (-306.4738694070088, -58.0, 173.4615593790329)
+[08Dec2024 03:27:58.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[08Dec2024 03:27:58.683] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[08Dec2024 03:27:58.684] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[08Dec2024 03:28:10.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by The Damned
+[08Dec2024 03:28:18.059] [User Authenticator #40/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[08Dec2024 03:28:23.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: You logged in from another location
+[08Dec2024 03:28:23.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[08Dec2024 03:28:23.972] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[08Dec2024 03:28:23.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:43666] logged in with entity id 219444 at (-306.4738694070088, -58.0, 173.4615593790329)
+[08Dec2024 03:28:23.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[08Dec2024 03:28:24.472] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[08Dec2024 03:28:24.472] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[08Dec2024 03:28:50.541] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[08Dec2024 03:29:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Summoned new Cave Dweller]
+[08Dec2024 03:29:43.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by Cave Dweller
+[08Dec2024 03:29:44.142] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-278, y=63, z=141}
+[08Dec2024 03:29:53.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Summoned new Cave Dweller]
+[08Dec2024 03:30:01.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by The Wheezer
+[08Dec2024 03:32:05.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Summoned new Cave Dweller]
+[08Dec2024 03:34:07.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Castisho was slain by Man From The Fog
+[08Dec2024 03:34:54.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: Timed out
+[08Dec2024 03:34:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[08Dec2024 03:34:54.816] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69

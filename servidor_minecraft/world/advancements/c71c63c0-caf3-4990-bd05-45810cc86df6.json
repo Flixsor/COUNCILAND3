@@ -5633,6 +5633,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-08 02:28:28 +0000"
+    },
+    "done": true
+  },
   "man:thetear": {
     "criteria": {
       "thetear": "2024-12-08 02:39:03 +0000"
@@ -5645,9 +5651,21 @@
     },
     "done": true
   },
+  "undead_revamp2:earthyblood": {
+    "criteria": {
+      "earthyblood_0": "2024-12-08 02:43:07 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2024-12-08 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-08 02:54:56 +0000"
     },
     "done": true
   },
@@ -5657,27 +5675,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-08 02:28:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2024-12-08 03:10:37 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:earthyblood": {
-    "criteria": {
-      "earthyblood_0": "2024-12-08 02:43:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_owner_changer": {
-    "criteria": {
-      "has_name_tag": "2024-12-08 02:54:56 +0000"
     },
     "done": true
   },

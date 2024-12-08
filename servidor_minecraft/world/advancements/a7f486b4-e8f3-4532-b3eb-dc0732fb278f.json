@@ -358,6 +358,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-07 22:11:45 +0000",
       "minecraft:taiga": "2024-12-06 02:39:00 +0000",
       "minecraft:birch_forest": "2024-12-06 23:08:45 +0000",
+      "minecraft:windswept_hills": "2024-12-08 03:13:50 +0000",
       "minecraft:beach": "2024-12-06 02:31:56 +0000",
       "minecraft:dark_forest": "2024-12-06 23:17:27 +0000",
       "minecraft:river": "2024-12-06 02:37:37 +0000",
@@ -5953,6 +5954,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-08 03:18:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2024-12-08 02:46:33 +0000"
@@ -5971,6 +5978,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-08 03:18:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-08 03:18:30 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/salmonberry_pips": {
     "criteria": {
       "has_salmonberries": "2024-12-08 03:04:19 +0000"
@@ -5983,9 +6002,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-08 03:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-08 03:18:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-08 02:40:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-08 03:18:30 +0000"
     },
     "done": true
   },
@@ -6037,6 +6074,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-08 03:18:30 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/gummy/salmonberries": {
     "criteria": {
       "has_salmonberries": "2024-12-08 03:04:19 +0000"
@@ -6049,9 +6092,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-08 03:18:30 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/storage/salmonberry_storage_block": {
     "criteria": {
       "has_salmonberry": "2024-12-08 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-08 03:19:40 +0000"
     },
     "done": true
   },
@@ -6076,6 +6131,12 @@
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2024-12-08 02:46:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-08 03:18:30 +0000"
     },
     "done": true
   },
