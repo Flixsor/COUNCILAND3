@@ -4388,3 +4388,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 19:23:46.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex has made the advancement [Enchanter]
 [08Dec2024 19:24:14.095] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-614, y=63, z=-202}
 [08Dec2024 19:25:00.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex was slain by Cave Dweller
+[08Dec2024 19:33:57.689] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sensorlex is c71c63c0-caf3-4990-bd05-45810cc86df6
+[08Dec2024 19:34:00.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sensorlex lost connection: Disconnected
+[08Dec2024 19:34:00.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex left the game
+[08Dec2024 19:34:00.758] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sensorlex
+[08Dec2024 19:34:00.888] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 19:34:00.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sensorlex[/[::1]:35930] logged in with entity id 7686 at (-607.4075243470745, -58.0, -542.8352279940647)
+[08Dec2024 19:34:00.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex joined the game
+[08Dec2024 19:34:01.628] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sensorlex (18)
+[08Dec2024 19:34:01.629] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sensorlex
+[08Dec2024 19:34:46.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sensorlex lost connection: Timed out
+[08Dec2024 19:34:46.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex left the game
+[08Dec2024 19:34:46.052] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sensorlex
+[08Dec2024 19:42:00.799] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6db05569[id=<null>,name=Sensorlex,properties={},legacy=false] (/[::1]:45592) lost connection: Timed out
+[08Dec2024 19:42:23.540] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sensorlex is c71c63c0-caf3-4990-bd05-45810cc86df6
+[08Dec2024 19:42:26.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sensorlex[/[::1]:59024] logged in with entity id 7877 at (-607.4189588534127, -58.0, -550.5486140041911)
+[08Dec2024 19:42:26.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sensorlex joined the game
+[08Dec2024 19:42:27.504] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sensorlex (18)
+[08Dec2024 19:42:27.505] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sensorlex
