@@ -103,3 +103,24 @@
 [08Dec2024 00:50:45.822] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
 [08Dec2024 00:50:45.823] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
 [08Dec2024 00:54:39.490] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-611, y=62, z=-147}
+[08Dec2024 01:04:09.540] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-590, y=62, z=-143}
+[08Dec2024 01:04:16.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: translover69 lost connection: Timed out
+[08Dec2024 01:04:16.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 left the game
+[08Dec2024 01:04:16.395] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client translover69
+[08Dec2024 01:04:32.840] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d5b467a[id=<null>,name=translover69,properties={},legacy=false] (/[::1]:52584) lost connection: Timed out
+[08Dec2024 01:04:39.142] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player translover69 is 5649e944-b245-422c-a4ec-ae56aa97102f
+[08Dec2024 01:04:44.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: translover69[/[::1]:34320] logged in with entity id 103262 at (-612.3000000119209, 38.0, -117.30000001192093)
+[08Dec2024 01:04:44.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 joined the game
+[08Dec2024 01:04:44.900] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of translover69 (18)
+[08Dec2024 01:04:44.901] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to translover69
+[08Dec2024 01:06:31.503] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Flixsor is a7f486b4-e8f3-4532-b3eb-dc0732fb278f
+[08Dec2024 01:06:35.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flixsor[/[::1]:43872] logged in with entity id 104038 at (-609.9393936188465, 57.0, -126.57513717758333)
+[08Dec2024 01:06:35.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flixsor joined the game
+[08Dec2024 01:06:36.621] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flixsor (18)
+[08Dec2024 01:06:36.621] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flixsor
+[08Dec2024 01:07:14.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <translover69> x:-1234, y:-28, z:-15,
+[08Dec2024 01:07:39.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Teleported translover69 to -1233.500000, -28.000000, -14.500000]
+[08Dec2024 01:08:14.440] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-614, y=62, z=-140}
+[08Dec2024 01:16:20.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: translover69 has made the advancement [Dark Metallurgy]
+[08Dec2024 01:17:44.490] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1298, y=63, z=39}
+[08Dec2024 01:18:10.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flixsor: Teleported translover69 to Flixsor]
